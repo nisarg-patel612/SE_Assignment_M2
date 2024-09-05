@@ -1,1 +1,1 @@
-# SE_Assignment_M2
+In this assignment, we will use Conditional statements such as if-else, nested if-else, ladder else-if, and switch-case. We will also delve into looping constructs and their applications. Arrays, including single-dimensional, two-dimensional, and multi-dimensional arrays. Additionally, we will study functions and their usage, as well as string manipulation. Throughout the assignment, we will work with different data types, including int, char, float, and double in programming.

@@ -1,3 +1,4 @@
+// WAP to show difference between Structure and Union.
 #include<stdio.h>
 
 struct Student   //1. struct name
